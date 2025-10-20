@@ -880,7 +880,7 @@ ngOnDestroy(): void {
 ## Recursos Adicionales
 
 - [Documentación oficial Digital Persona](https://www.digitalpersona.com/)
-- [GitHub - @digitalpersona packages](https://github.com/hidglobal/digitalpersona-access-management-services)
+- [GitHub - @digitalpersona packages](https://github.com/orgs/hidglobal/repositories)
 - Manual de instalación del cliente HID (https://github.com/LN20-SAS/docs/blob/main/Manuales%20de%20instalaci%C3%B3n/Biomentrico%20Ditital%20Persona%20U.are.U%204500/README.md)
 
 ---
