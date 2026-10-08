@@ -236,6 +236,7 @@ Para verificar que todo funcione correctamente, puede utilizar el siguiente repo
 - Pruebe con un puerto USB diferente (preferiblemente USB 2.0 o superior)
 - Reinstale el driver del dispositivo
 - Verifique en el Administrador de dispositivos si hay conflictos o errores
+- Verifique que seguridad de inicio de sesion mejorada: Ve a Configuración > Cuentas > Opciones de inicio de sesión > Configuración adicional y apaga Seguridad de inicio de sesión mejorada (Enhanced sign-in security). Si esta en Off ponlo en On y reinica el equipo
 
 ---
 
