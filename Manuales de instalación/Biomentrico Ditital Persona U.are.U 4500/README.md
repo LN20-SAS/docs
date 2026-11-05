@@ -237,7 +237,9 @@ Para verificar que todo funcione correctamente, puede utilizar el siguiente repo
 - Reinstale el driver del dispositivo
 - Verifique en el Administrador de dispositivos si hay conflictos o errores
 - Verifique que seguridad de inicio de sesion mejorada: Ve a Configuración > Cuentas > Opciones de inicio de sesión > Configuración adicional y apaga Seguridad de inicio de sesión mejorada (Enhanced sign-in security). Si esta en Off ponlo en On y reinica el equipo. En caso tal de no poder acceder esta opción se debe ejecutar un CMD como administrador  poner el siguiente comando
+```powershell
 reg add "HKLM\Software\Microsoft\Windows NT\CurrentVersion\Virtualization" /v "EnableEnhancedSessionMode" /t REG_DWORD /d 1 /f
+```
 RECUERDA: Reiniciar el equipo depsues de ejecutar este comando
 
 
