@@ -1,5 +1,7 @@
 # Guía de Instalación - Tablet Topaz T-S460-HSB-R
 
+> ⚠️ **Esta guía es para María 1.0 (SigWeb).** Para María 2.0, que usa SigPlusExtLite y la extensión de Chrome, siga la guía [Tablet Topaz T-S460-HSB-R (María 2.0)](../Tablet%20Topaz%20T-S460-HSB-R%20-%20Mar%C3%ADa%202.0/README.md).
+
 ## **📋 Introducción**
 
 La tablet Topaz T-S460-HSB-R es un dispositivo de captura de firmas digitales que permite integrar funcionalidades de firma electrónica en aplicaciones web. Esta guía proporciona instrucciones detalladas para su instalación y configuración.
